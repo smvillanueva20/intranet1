@@ -1,0 +1,32 @@
+body {
+  background-color: #f8f9fa;
+  margin-top: 50px;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.intranet-title {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #17a2b8;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-primary:hover {
+  background-color: #138496;
+  border-color: #117a8b;
+}
